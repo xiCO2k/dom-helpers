@@ -1,0 +1,8 @@
+{
+  "name": "dom-helpers",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xiCO2k/dom-helpers.git",
+  "author": "Francisco Madeira <xico2k@gmail.com>",
+  "license": "MIT"
+}
