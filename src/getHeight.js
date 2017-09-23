@@ -1,3 +1,3 @@
-function getHeight(elem, defaultValue = 0) {
+export default function getHeight(elem, defaultValue = 0) {
     return elem && elem.offsetHeight || defaultValue;
 }
